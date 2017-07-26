@@ -1,6 +1,13 @@
 Changelog for Bolt 3.x
 ======================
 
+Bolt 3.2.18
+-----------
+
+Released 2017-07-XX. Notable changes:
+
+ - Keeping `keys:` intact for select fields. [#6859](https://github.com/bolt/bolt/pull/6859)
+
 Bolt 3.2.17
 -----------
 
